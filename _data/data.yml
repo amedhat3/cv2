@@ -3,118 +3,189 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ahmed Othman
+    tagline: Software Engineering Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: cv@aothman.de
+    website: aothman.de #do not add http://
+    linkedin: a-othman
+    github: amedhat3
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@amedhat3'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Arabic
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Chess
+        link:
+
+      - item: Poker
         link:
 
       - item: Snowboarding
         link:
 
-      - item: Cooking
+      - item: Outdoor Running
+        link:
+        
+      - item: New Cultures Exploration
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      Engineering Manager with 6+ years of Engineering Leadership experience and 12+ years of hands-on Software Development experience. 
+      In love with people diversity and helping people grow and develop their skills.
+      My passion is driving high business impact by building cross-functional teams and developing scalable and reliable software systems.
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Engineering Manager
+      time: March 2020 - Present
+      company: Zalando SE
+      link: "https://www.linkedin.com/company/zalando/about/"
+      location: Berlin, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Taking care of the Search and Browse Experience team, which's responsible for 
+        Zalando's catalog page, including (the autosuggest in the search bar, 
+        the filters and the filters values, the categories navigation tree, 
+        the articles and outfits in the result).
+        My responsiblities includ the following:
+          - hiring, team building, team members career development
+          - building the team strategy and roadmap, and motivating the team members to stand behind the team's vision and mission
+          - stakeholder Happiness, managing dependencies and expectations, building trust with all stakeholders
+          - the projects' successful delivery with a lean agile development process
+          - ensure operational excellence of the systems. 
+          
+    - role: Lead Engineer/Senior Engineer
+      time: October 2017 - February 2020
+      company: Zalando SE
+      link: "https://www.linkedin.com/company/zalando/about/"
+      location: Berlin, Germany
+      details: |
+        Worked as a Lead Engineer in the Full-Text Search team, building the biggest fashion Search Engine in Europe which consists of 
+        the traditional Search Engine features like (Spell-checker, synonyms, NER, strike search, etc) 
+        also, building the new machine learning Search Engine which is built using deep learning methods based on historical click data.
+        My responsiblities included the following:
+          - hiring (reviewing applications, interviewing, review interviewers scorecards and giving them feedback, choosing the accepted candidates job grads)
+          - organizing team workshops (architecture, process, team charter)
+          - co-Organize the Search round table with Europe's strongest Search Engines (Spotify, Booking, Here, Mobile.de)
+          - lead the development (hands-on) for the Search Engine features (traditional and machine learning)
+          - coach and mentor team members
+          - coordinate with the product managers to deliver user stories to the team.
+          
+    - role: Engineering Technical Lead/Technical Product Owner
+      time: November 2015 - July 2017
+      company: Rakuten
+      link: "https://www.linkedin.com/company/rakuten/about/"
+      location: Tokyo, Japan
+      details: |
+        Leading 2 Engineering team of ~15 Engineers in Tokyo, Japan and Bangalore, India to re-build Rakuten's membership services, 
+        which includes (Authentication (OAuth 2.0, OpenId connect), Customers profiles, Integration with external companies).
+        My responsiblities included the following:
+          - desiging the system archeticture, choose the technologies and tools used for development
+          - code reviews and operational excellence of the system
+          - hiring as well as the teams development and training
+          - close cooperation with product managers to refine the product backlog
+          - provide high-level estimates and project roadmap plan with communicating it with stakeholders and top-level managers
+          - together with the agile coaches, building the scrum of scrums development process to scale the development in multiple teams independently
+          - accountable for delivering the project on time.
+
+          
+    - role: Development Team Lead
+      time: December 2014 - November 2015
+      company: Rakuten
+      link: "https://www.linkedin.com/company/rakuten/about/"
+      location: Tokyo, Japan
+      details: |
+        - Lead a team of 5 international Software Engineers, and 3 quality engineers
+        - responsible for facilitating the scrum process
+        - coaching/mentoring team members.
+          
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: January 2014 – December 2014
+      company: SolGen Labs/Floating Apps
+      link: "https://www.linkedin.com/company/solgen-labs/about"
+      location: New York, USA (remote)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        I wanted to continue to be an Entrepreneur but I wanted to go international, so this time instead of building my own product, 
+        I helped other startups to build their ideas, one of my clients was a company called Floating Apps now called Chili Piper.
+        One of the features I built with Chili Piper was an application using Java and Spring stack to integrate Google Apps with Salesforce.
+    
+    - role: Senior Software Engineer
+      time: January 2014 – December 2014
+      company: eSpace 
+      link: https://www.linkedin.com/company/espace/about/
+      location: Alexandria, Egypt
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Develop scalable web applications using Ruby on Rails, Python and Node.js 
+        - lead and mentor other team members.
+          
+    - role: Founder/CEO
+      time: October 2012 – April 2013
+      company: SolGen Labs
+      link: "https://www.linkedin.com/company/solgen-labs/about"
+      location: Alexandria, Egypt
+      details: |
+        With 3 other co-founders, we built a company from an idea to a complete product with a successful exit,
+        the prodcut called TaxiNTime which enable customer to order taxies from anywhere any time (Uber was not there yet).
+        My responsibilities included, developing the MVP, create a business plan and the company strategy, 
+        present the company to investors and startups competitions.
+    
+    - role: Senior Software Engineer
+      time: November 2011 – October 2012
+      company: Wireless Stars 
+      link: "https://www.linkedin.com/company/wireless-stars/about/"
+      location: Alexandria/Cairo, Egypt
+      details: |
+        Develop a location-based social network, with storing and analyzing big data to be able to make data-driven decisions regarding the product strategy and roadmap.
+          
+    - role: Software Engineer
+      time: March 2009 – November 2011
+      company: Egypt Development Center (EDC)/Mubasher.info 
+      link: "https://www.linkedin.com/company/mubasher-info/about/"
+      location: Cairo, Egypt
+      details: |
+        Develop high scale web and fintech applications using Java and Spring stack, with Agile development process.
+          
+    - role: Teacher assistant
+      time: September 2007 - January 2008
+      company: Alexandria University 
+      link: "https://en.wikipedia.org/wiki/Alexandria_University"
+      location: Alexandria, Egypt
+      details: |
+        Teach computer science subjects like (Introduction to Programming, System Software, Distributed Systems, Artificial Intelligence).
+    
+achievements:
+    title: Achievements
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    achievements:
+          - title: Velocity
+            link: "#hook"
+            tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+          - title: DevStudio
+            link: "#"
+            tagline: "B responsive website template designed to help web developers/designers market their services."
+
 projects:
     title: Projects
     intro: >
@@ -142,49 +213,11 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+education:
+    - degree: BSc in Computer Science
+      university: Alexandria University
+      time: 2007
+      details: |
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
