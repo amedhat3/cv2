@@ -57,6 +57,7 @@ career-profile:
 experiences:
     - role: Engineering Manager
       time: March 2020 - Present
+      years: 9+ monthes
       company: Zalando SE
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
@@ -74,6 +75,7 @@ experiences:
           
     - role: Lead Engineer/Senior Engineer
       time: October 2017 - February 2020
+      years: 2 years and 4 monthes
       company: Zalando SE
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
@@ -91,11 +93,12 @@ experiences:
           
     - role: Engineering Technical Lead/Technical Product Owner
       time: November 2015 - July 2017
+      years: 1 year and 8 monthes
       company: Rakuten
       link: "https://www.linkedin.com/company/rakuten/about/"
       location: Tokyo, Japan
       details: |
-        Leading 2 Engineering team of ~15 Engineers in Tokyo, Japan and Bangalore, India to re-build Rakuten's membership services, 
+        Leading the project teams, 2 Engineering team of ~15 Engineers in Tokyo, Japan and Bangalore, India to re-build Rakuten's membership services, 
         which includes (Authentication (OAuth 2.0, OpenId connect), Customers profiles, Integration with external companies).
         My responsiblities included the following:
           - desiging the system archeticture, choose the technologies and tools used for development
@@ -109,6 +112,7 @@ experiences:
           
     - role: Development Team Lead
       time: December 2014 - November 2015
+      years: 1 year
       company: Rakuten
       link: "https://www.linkedin.com/company/rakuten/about/"
       location: Tokyo, Japan
@@ -118,7 +122,8 @@ experiences:
         - coaching/mentoring team members.
           
     - role: Senior Software Engineer
-      time: January 2014 – December 2014
+      time: January 2014 – November 2014
+      years: 11 monthes
       company: SolGen Labs/Floating Apps
       link: "https://www.linkedin.com/company/solgen-labs/about"
       location: New York, USA (remote)
@@ -128,7 +133,8 @@ experiences:
         One of the features I built with Chili Piper was an application using Java and Spring stack to integrate Google Apps with Salesforce.
     
     - role: Senior Software Engineer
-      time: January 2014 – December 2014
+      time: April 2013 – March 2014
+      years: 1 year
       company: eSpace 
       link: https://www.linkedin.com/company/espace/about/
       location: Alexandria, Egypt
@@ -137,7 +143,8 @@ experiences:
         - lead and mentor other team members.
           
     - role: Founder/CEO
-      time: October 2012 – April 2013
+      time: October 2012 – March 2013
+      years: 6 monthes
       company: SolGen Labs
       link: "https://www.linkedin.com/company/solgen-labs/about"
       location: Alexandria, Egypt
@@ -147,8 +154,9 @@ experiences:
         My responsibilities included, developing the MVP, create a business plan and the company strategy, 
         present the company to investors and startups competitions.
     
-    - role: Senior Software Engineer
+    - role: Software Engineer
       time: November 2011 – October 2012
+      years: 1 year
       company: Wireless Stars 
       link: "https://www.linkedin.com/company/wireless-stars/about/"
       location: Alexandria/Cairo, Egypt
@@ -156,15 +164,17 @@ experiences:
         Develop a location-based social network, with storing and analyzing big data to be able to make data-driven decisions regarding the product strategy and roadmap.
           
     - role: Software Engineer
-      time: March 2009 – November 2011
+      time: March 2009 – October 2011
+      years: 2 years and 7 monthes
       company: Egypt Development Center (EDC)/Mubasher.info 
       link: "https://www.linkedin.com/company/mubasher-info/about/"
       location: Cairo, Egypt
       details: |
         Develop high scale web and fintech applications using Java and Spring stack, with Agile development process.
           
-    - role: Teacher assistant
+    - role: University Teaching Assistant
       time: September 2007 - January 2008
+      years: 1 semester
       company: Alexandria University 
       link: "https://en.wikipedia.org/wiki/Alexandria_University"
       location: Alexandria, Egypt
