@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Ahmed's Resume
-url: 'https://cv.aothman.com'
+url: 'https://cv.aothman.de'
 baseurl: '' #change it according to your repository name
 description: Ahmed Othman's resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
