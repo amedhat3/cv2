@@ -32,11 +32,11 @@ sidebar:
     plato: https://www.platohq.com/mentors/ahmed-othman-801215977
 
     languages:
-      - idiom: English
-        level: Professional
+    # - idiom: English
+    #    level: Professional
 
-      - idiom: Arabic
-        level: Native
+    #  - idiom: Arabic
+    #    level: Native
 
     interests:
       - item: Chess
