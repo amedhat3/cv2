@@ -20,7 +20,7 @@
     {% endif %}
 
     {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
+    <li class="website"><i class="fas fa-globe-africa"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
@@ -52,6 +52,12 @@
     {% if sidebar.twitter %}
     <li class="twitter"><i class="fab fa-twitter"></i>
       <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.plato %}
+    <li class="plato"><i class="fas fa-globe-africa"></i>
+      <a href="{{ sidebar.plato }}" target="_blank">Plato Profile (Mentorship)</a>
     </li>
     {% endif %}
 

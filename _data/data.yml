@@ -29,6 +29,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    plato: https://www.platohq.com/mentors/ahmed-othman-801215977
 
     languages:
       - idiom: English
@@ -56,19 +57,20 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Engineering Manager with 6+ years of Engineering Leadership experience and 12+ years of hands-on Software Development experience. 
+      Software Engineer Manager with a proven track record in People Management (1 year), Technical Leadership (7 years), and hands-on Software Development (12+ years).
+      In the past 7 years, I gained experience building scalable and reliable Identity and Authentication platform as well as Search Systems for two of the e-commerce giants (Rakuten, Zalando).
       In love with people diversity and helping people grow and develop their skills.
       My passion is driving high business impact by building cross-functional teams and developing scalable and reliable software systems.
 
 experiences:
     - role: Engineering Manager
       time: March 2020 - Present
-      years: 9+ monthes
+      years: 1+ Year
       company: Zalando SE
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
       details: |
-        Taking care of the Search and Browse Experience team, which's responsible for 
+        Looking after the Search and Browse Experience team, which's responsible for 
         Zalando's catalog page, including (the autosuggest in the search bar, 
         the filters and the filters values, the categories navigation tree, 
         the articles and outfits in the result).
@@ -104,7 +106,7 @@ experiences:
       link: "https://www.linkedin.com/company/rakuten/about/"
       location: Tokyo, Japan
       details: |
-        Leading the project teams, 2 Engineering team of ~15 Engineers in Tokyo, Japan and Bangalore, India to re-build Rakuten's membership services, 
+        Leading the Rakuten ID project's teams, 2 Engineering team of ~15 Engineers in Tokyo, Japan and Bangalore, India to re-build Rakuten's membership services, 
         which includes (Authentication (OAuth 2.0, OpenId connect), Customers profiles, Integration with external companies).
         My responsiblities included the following:
           - desiging the system archeticture, choose the technologies and tools used for development
@@ -234,6 +236,9 @@ education:
       university: Alexandria University
       time: 2007
       details: |
+
+data_protection: >
+    Storing data from this website without written consent from the owner is strictly prohibited
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
