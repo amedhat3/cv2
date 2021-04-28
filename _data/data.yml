@@ -3,6 +3,7 @@
 #
 
 toggles:
+  leadership_experiences: True
   experiences: True
   projects: False
   achievements: False
@@ -18,7 +19,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: contact - @at@ - aothman.de
+    email: cv@aothman.de
     website: aothman.de #do not add http://
     linkedin: a-othman
     github: amedhat3
@@ -58,11 +59,12 @@ career-profile:
     title: Summary
     summary: |
       Software Engineer Manager with a proven track record in People Management (1 year), Technical Leadership (7 years), and hands-on Software Development (12+ years).
-      In the past 7 years, I gained experience building scalable and reliable Identity and Authentication platform as well as Search Systems for two of the e-commerce giants (Rakuten, Zalando).
+      In the past 7 years, I led Software Engineering teams building scalable and reliable Identity and Authentication platform as well as Search Systems for two of the e-commerce giants (Rakuten, Zalando).
+    objectives: |
       In love with people diversity and helping people grow and develop their skills.
       My passion is driving high business impact by building cross-functional teams and developing scalable and reliable software systems.
 
-experiences:
+leadership_experiences:
     - role: Engineering Manager
       time: March 2020 - Present
       years: 1+ Year
@@ -94,7 +96,7 @@ experiences:
         My responsiblities included the following:
           - hiring (reviewing applications, interviewing, review interviewers scorecards and giving them feedback, choosing the accepted candidates job grads)
           - organizing team workshops (architecture, process, team charter)
-          - co-Organize the Search round table with Europe's strongest Search Engines (Spotify, Booking, Here, Mobile.de)
+          - co-organize the Search round table with Europe's strongest Search Engines (Spotify, Booking, Here, Mobile.de)
           - lead the development (hands-on) for the Search Engine features (traditional and machine learning)
           - coach and mentor team members
           - coordinate with the product managers to deliver user stories to the team.
@@ -129,6 +131,7 @@ experiences:
         - responsible for facilitating the scrum process
         - coaching/mentoring team members.
           
+experiences:
     - role: Senior Software Engineer
       time: January 2014 – November 2014
       years: 11 monthes
@@ -238,7 +241,7 @@ education:
       details: |
 
 data_protection: >
-    Storing data from this website without written consent from the owner is strictly prohibited
+    Storing data from this website without consent from the owner is strictly prohibited
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
