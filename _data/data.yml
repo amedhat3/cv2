@@ -72,20 +72,21 @@ leadership_experiences:
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
       details: |
-        Looking after the Search and Browse Experience team, which's responsible for 
+        Looking after the Search and Browse Experience team,  which is responsible for 
         Zalando's catalog page, including (the autosuggest in the search bar, 
         the filters and the filters values, the categories navigation tree, 
         the articles and outfits in the result).
-        My responsiblities includ the following:
-          - hiring, team building, team members career development
+        My responsibilities include the following:
+          - hiring, team building, team members career development (scaled the team from 2 to 5 Engineers, 1 more to hire)
           - building the team strategy and roadmap, and motivating the team members to stand behind the team's vision and mission
           - stakeholder Happiness, managing dependencies and expectations, building trust with all stakeholders
           - the projects' successful delivery with a lean agile development process
-          - ensure operational excellence of the systems. 
+          - ensure operational excellence of the systems.
+          - Tech stack: Scala, Elasticsearch, Kubernetes, AWS
           
     - role: Lead Engineer/Senior Engineer
       time: October 2017 - February 2020
-      years: 2 years and 4 monthes
+      years: 2 years and 4 months
       company: Zalando SE
       link: "https://www.linkedin.com/company/zalando/about/"
       location: Berlin, Germany
@@ -93,25 +94,26 @@ leadership_experiences:
         Worked as a Lead Engineer in the Full-Text Search team, building the biggest fashion Search Engine in Europe which consists of 
         the traditional Search Engine features like (Spell-checker, synonyms, NER, strike search, etc) 
         also, building the new machine learning Search Engine which is built using deep learning methods based on historical click data.
-        My responsiblities included the following:
+        My responsibilities included the following:
           - hiring (reviewing applications, interviewing, review interviewers scorecards and giving them feedback, choosing the accepted candidates job grads)
           - organizing team workshops (architecture, process, team charter)
           - co-organize the Search round table with Europe's strongest Search Engines (Spotify, Booking, Here, Mobile.de)
           - lead the development (hands-on) for the Search Engine features (traditional and machine learning)
           - coach and mentor team members
-          - coordinate with the product managers to deliver user stories to the team.
+          - coordinate with the product managers to write user stories to the team.
+          - Tech stack: Scala, Lucene, Rest APIs
           
     - role: Engineering Technical Lead/Technical Product Owner
       time: November 2015 - July 2017
-      years: 1 year and 8 monthes
+      years: 1 year and 8 months
       company: Rakuten
       link: "https://www.linkedin.com/company/rakuten/about/"
       location: Tokyo, Japan
       details: |
-        Leading the Rakuten ID project's teams, 2 Engineering team of ~15 Engineers in Tokyo, Japan and Bangalore, India to re-build Rakuten's membership services, 
-        which includes (Authentication (OAuth 2.0, OpenId connect), Customers profiles, Integration with external companies).
-        My responsiblities included the following:
-          - desiging the system archeticture, choose the technologies and tools used for development
+        Leading the Rakuten ID project’s teams, 2 Engineering teams of ~15 Engineers in Tokyo, Japan and Bangalore, India to rebuild Rakuten’s membership services, 
+        which includes (Authentication (OAuth 2.0, OpenId connect), Customers profiles, Integration with external companies). 
+        My responsibilities included the following:
+          - designing the system architecture, choose the technologies and tools used for development
           - code reviews and operational excellence of the system
           - hiring as well as the teams development and training
           - close cooperation with product managers to refine the product backlog
@@ -134,7 +136,7 @@ leadership_experiences:
 experiences:
     - role: Senior Software Engineer
       time: January 2014 – November 2014
-      years: 11 monthes
+      years: 11 months
       company: SolGen Labs/Floating Apps
       link: "https://www.linkedin.com/company/solgen-labs/about"
       location: New York, USA (remote)
@@ -155,13 +157,13 @@ experiences:
           
     - role: Founder/CEO
       time: October 2012 – March 2013
-      years: 6 monthes
+      years: 6 months
       company: SolGen Labs
       link: "https://www.linkedin.com/company/solgen-labs/about"
       location: Alexandria, Egypt
       details: |
         With 3 other co-founders, we built a company from an idea to a complete product with a successful exit,
-        the prodcut called TaxiNTime which enable customer to order taxies from anywhere any time (Uber was not there yet).
+        the product called TaxiNTime which enable customer to order taxies from anywhere any time (Uber was not there yet).
         My responsibilities included, developing the MVP, create a business plan and the company strategy, 
         present the company to investors and startups competitions.
     
@@ -176,12 +178,12 @@ experiences:
           
     - role: Software Engineer
       time: March 2009 – October 2011
-      years: 2 years and 7 monthes
+      years: 2 years and 7 months
       company: EDC/Mubasher.info 
       link: "https://www.linkedin.com/company/mubasher-info/about/"
       location: Cairo, Egypt
       details: |
-        Develop high scale web and fintech applications using Java and Spring stack, with Agile development process.
+        Develop high scale web and fin-tech applications using Java and Spring stack, with Agile development process.
           
     - role: University Teaching Assistant
       time: September 2007 - January 2008
@@ -195,9 +197,7 @@ experiences:
 achievements:
     title: Achievements
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Dummy text.
     achievements:
           - title: Velocity
             link: "#hook"
@@ -210,9 +210,7 @@ achievements:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Dummy text.
     assignments:
       - title: Velocity
         link: "#hook"
