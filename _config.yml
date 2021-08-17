@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Ahmed's Resume
-url: 'https://cv.aothman.de'
+url: 'https://cv.aothman.com'
 baseurl: '' #change it according to your repository name
 description: Ahmed's has 6+ years of Engineering Leadership experience, he gained this experience from working in top international e-commerce companies like Zalando in Germany and Rakuten in Japan 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
